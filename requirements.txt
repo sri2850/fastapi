@@ -1,0 +1,6 @@
+SQLAlchemy~=2.0.32
+fastapi~=0.114.2
+azure-core~=1.30.2
+python-dotenv~=1.0.1
+pydantic~=2.8.2
+starlette~=0.38.5
